@@ -12,4 +12,4 @@ Key Finding: My descriptive analysis shows Bexar County census tracts have a mas
 
 * **[Literature Review & Policy Brief (PDF)](./VIA-Transit-Literature-Review.pdf):** An evaluation of microclimate heat impacts, transit equity, and stop maintenance strategies for San Antonio's high-frequency corridors.
 
-* **[Static Spatial Analysis Map](https://[your-username].github.io/san-antonio-transit-equity/):** A geographic visualization of summer Land Surface Temperature (LST) exposure across the VIA network.
+* **[Static Spatial Analysis Map](https://omed12.github.io/san-antonio-transit-equity/):** A geographic visualization of summer Land Surface Temperature (LST) exposure across the VIA network.
